@@ -1,0 +1,4 @@
+interface:
+  display_name: "鉛筆を掴む"
+  short_description: "グリップを少し開いて2秒待ってから159度で鉛筆を掴む"
+  default_prompt: "鉛筆を掴んで"
